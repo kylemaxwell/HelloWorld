@@ -51,6 +51,7 @@
 		DB6E61C1201FA21B00FD17C8 /* HelloWorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB6E61C5201FA21B00FD17C8 /* HelloWorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldUITests.swift; sourceTree = "<group>"; };
 		DB6E61C7201FA21B00FD17C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB6E61D3201FC31300FD17C8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		DB6E6195201FA21B00FD17C8 = {
 			isa = PBXGroup;
 			children = (
+				DB6E61D3201FC31300FD17C8 /* README.md */,
 				DB6E61A0201FA21B00FD17C8 /* HelloWorld */,
 				DB6E61B9201FA21B00FD17C8 /* HelloWorldTests */,
 				DB6E61C4201FA21B00FD17C8 /* HelloWorldUITests */,
